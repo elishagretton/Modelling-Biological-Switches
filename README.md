@@ -1,6 +1,9 @@
 # Modelling Biological Switches using Differential Equations
 
-During my integrated Masters in Mathematics, I completed a year-long research project, dedicated to the Mathematical Modelling behind Biological Switches. You may be thinking **What is a biological switch?** Why are they important to biological processes? And how do you use mathematics to create these accurate models?
+During my integrated Masters in Mathematics at the University of Sheffield, I completed a year-long research project. My project was dedicated to the mathematical modelling behind biological switches. You may be thinking 
+* What is a biological switch?
+* Why are they important to biological processes?
+* And how do you use mathematics to create these accurate models?
 
 ## Table of Contents
 1. [Introduction](#introduction)
